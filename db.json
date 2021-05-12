@@ -3,34 +3,4 @@
 "id": 1,
 "title": "Home Insurance",
 "body": "Details about this insurance"
-},
-{
-"userId": 1,
-"id": 2,
-"title": "Vehicle Insurance",
-"body": "About vehicles"
-},
-{
-"userId": 1,
-"id": 3,
-"title": "Travel Insurance",
-"body": "Details about this insurance"
-},
-{
-"userId": 2,
-"id": 4,
-"title": "Building Insurance",
-"body": "Types of buildings covered"
-},
-{
-"userId": 2,
-"id": 5,
-"title": "Income Protection Insurance",
-"body": "Details on this type of insurance"
-},
-{
-"userId": 2,
-"id": 6,
-"title": "Buying Insurance",
-"body": "Insurance to protect a buyer"
 }
