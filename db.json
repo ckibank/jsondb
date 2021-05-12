@@ -1,14 +1,34 @@
-[
 {
-"userId": 1,
-"id": 1,
-"title": "Home Insurance",
-"body": "Details about this insurance"
-},
-{
-"userId": 1,
-"id": 2,
-"title": "Vehicle Insurance",
-"body": "About vehicles"
+  "todos" : [
+    {
+      "id": 1,
+      "title": "Home Insurance",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Vehicle Insurance",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Travel Insurance",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "Building Insurance",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Income Protection Insurance",
+      "completed": true
+    },
+    {
+      "id": 6,
+      "title": "Buying Insurance",
+      "completed": false
+    }
+  ]  
 }
-]
