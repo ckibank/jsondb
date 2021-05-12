@@ -1,6 +1,12 @@
+[
 {
-"userId": 1,
-"id": 1,
-"title": "Home Insurance",
-"body": "Details about this insurance"
+id: 1,
+body: "some comment",
+postId: 1
+},
+{
+id: 2,
+body: "some comment",
+postId: 1
 }
+]
